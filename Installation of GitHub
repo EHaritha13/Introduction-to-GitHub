@@ -1,4 +1,4 @@
 A=int(input("Enter a:"))
-m=int(input("Enter b:"))
+B=int(input("Enter b:"))
 print(A)
-print(m)
+print(B)
