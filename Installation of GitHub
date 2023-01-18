@@ -1,0 +1,4 @@
+n=int(input("Enter a:"))
+m=int(input("Enter b:"))
+print(n)
+print(m)
